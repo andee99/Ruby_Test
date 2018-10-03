@@ -1,0 +1,1 @@
+il y a des choses faciles sur Ruby mais il y aussi des trucs super difficiles comme créer le petit jeu interactif.
